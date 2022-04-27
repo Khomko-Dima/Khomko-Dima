@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Khomko-Dima/Khomko-Dima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/Khomko_Dima"><img src="https://api.daily.dev/devcards/712996e059f64ea5a3ef8e2a42a21872.png?r=fc3" width="400" alt="Дмитрий Хомко's Dev Card"/></a>
